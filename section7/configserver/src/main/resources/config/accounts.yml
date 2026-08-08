@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to BankEase accounts related local API's"
+  contactDetails:
+    name: "Omesh - Developer"
+    email: "omeshpadmpalle@gmail.com"
+  oncallsupport:
+    - "(555)555-1234"
+    - "(555)523-1324"

@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to BankEase accounts related prod API's"
+  contactDetails:
+    name: "Nilesh - Produt Owner"
+    email: "nilesh@gmail.com"
+  oncallsupport:
+    -(435)738-1234
+    -(928)823-1324

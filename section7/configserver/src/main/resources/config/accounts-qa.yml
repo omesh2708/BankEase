@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to BankEase accounts related QA API's"
+  contactDetails:
+    name: "Deepak - QA Lead"
+    email: "deepak@gmail.com"
+  oncallsupport:
+    -(666)666-1234
+    -(666)623-1324
